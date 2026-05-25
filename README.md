@@ -2,7 +2,7 @@
 
 ## This workspace belongs to Jorge Rodríguez Toledo
 
-### Physics Graduate (UCM), MSc Student (UIB-IFISC)
+### Physics Graduate (UCM), Master Student in Physics of Complex Systems (UIB-IFISC)
 
 🌍 I'm from the Canary Islands living in Mallorca!   
 ✉️ Contact me via jorgerodrigueztoledo03@gmail.com   
